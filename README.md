@@ -16,3 +16,15 @@ Klipper is Free Software. See the [license](COPYING) or read the
 [documentation](https://www.klipper3d.org/Overview.html). We depend on
 the generous support from our
 [sponsors](https://www.klipper3d.org/Sponsors.html).
+
+Note: this version is a fork to support the TenLog TL-D3 Pro IDEX printer,
+and is based upon work from 
+[jonpackard](https://github.com/jonpackard/klipper_config_tld3pro) 
+and from 
+[matti125](https://github.com/matti125/klipper_config)
+
+as well as the Marlin 1 source from  TenLog.
+
+
+
+
