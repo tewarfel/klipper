@@ -177,7 +177,7 @@ config MCU
     default "stm32f401xc" if MACH_STM32F401
     default "stm32f405xx" if MACH_STM32F405
     default "stm32f407xx" if MACH_STM32F407
-    default "stm32f411ce" if MACH_STM32F411
+    default "stm32f411xe" if MACH_STM32F411
     default "stm32f429xx" if MACH_STM32F429
     default "stm32f446xx" if MACH_STM32F446
     default "stm32f765xx" if MACH_STM32F765
